@@ -14,7 +14,7 @@ window.title('Slippi Visualization')
 window.geometry("300x300")
 
 # Set icon of window
-pic = PhotoImage(file='icon.png')
+pic = PhotoImage(file='images/icon.png')
 window.iconphoto(False, pic)
 
 

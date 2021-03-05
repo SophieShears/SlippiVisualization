@@ -31,12 +31,14 @@ in order to have them considered.
 
 ## **Graphs**
 
-[Overall Win Percentage] [3]
+[Overall Win Percentage][3]
+![](images/overallWL.JPG)
 
 [Win Percentage vs Every Character][4]
+![](images/charWL.JPG)
 
 [Frequency of Characters Played Against][5]
-
+![](images/charFreq.JPG)
 
 
 
@@ -48,8 +50,8 @@ in order to have them considered.
 [2]: https://github.com/hohav/py-slippi
 
 
-[3]: overallWL.JPG
+[3]: images/overallWL.JPG?raw=true
 
-[4]: charWL.JPG
+[4]: images/charWL.JPG
 
-[5]: charFreq.JPG
+[5]: images/charFreq.JPG
